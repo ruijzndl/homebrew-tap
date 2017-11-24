@@ -1,4 +1,4 @@
-class Notes < Formula
+class Tacs < Formula
   desc "Todo"
   homepage "https://github.com/ruijzndl/tacs"
   url "https://github.com/ruijzndl/tacs/archive/0.5.5.tarball.gz"
