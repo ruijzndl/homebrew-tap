@@ -9,4 +9,3 @@ class Notes < Formula
     bin.install "bin/tacs"
   end
 end
-
